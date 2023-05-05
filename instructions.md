@@ -1,8 +1,6 @@
 # Instructions
 
-The following are the instructions provided to the crowdworkers, in both open and in-house workforce
-
-
+The following are the instructions provided to the crowdworkers, in both open and in-house workforce:
 
 ### Overview
 
@@ -91,4 +89,9 @@ Feel free to use the "Explain your answer" text box to let us know about the rat
 Thank you for your collaboration.
 
 
+# Task
+
+The actual task was shown to the contributors as in this example:
+
+![ExampleAnnotation](https://user-images.githubusercontent.com/13152269/236466735-1e79ef1b-c2c6-4f6d-b5a8-1bd383507f2c.JPG)
 
